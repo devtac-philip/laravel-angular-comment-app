@@ -10,4 +10,4 @@ This is the repository for the [scotch.io tutorial](http://scotch.io/tutorials/p
 4. Change your database settings in `app/config/database.php`
 5. Migrate your database: `php artisan migrate`
 6. Seed your database: `php artisan db:seed`
-7. View your application in browser.
+7. View your application in browser: `php artisan serve`
